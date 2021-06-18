@@ -3,6 +3,6 @@ unsigned int gcd(unsigned int a, unsigned int b){
         return gcd(b,a);
     if (b==0) 
         return a;
-    else 
+    else  
         return gcd(b, a % b);
 }
