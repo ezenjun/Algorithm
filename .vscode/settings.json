@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.html": "html",
         "iostream": "cpp",
         "ostream": "cpp",
         "*.tcc": "cpp",
@@ -8,6 +9,12 @@
         "string": "cpp",
         "unordered_map": "cpp",
         "vector": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "unordered_set": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
     }
 }
